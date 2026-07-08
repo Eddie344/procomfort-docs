@@ -1,7 +1,7 @@
-# Руководства Procomfort
+# Table of contents
 
 ## Инструкции
 
-- [Роль РОП](features/rop-role/user-guide.md)
-- [Баланс РОПа](features/rop-balance/user-guide.md)
-- [Каталоги клиентов](features/rop-catalogs/user-guide.md)
+* [Роль РОП](README.md)
+* [Баланс РОПа](features/rop-balance/user-guide.md)
+* [Каталоги клиентов](features/rop-catalogs/user-guide.md)
